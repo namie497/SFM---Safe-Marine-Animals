@@ -1,0 +1,23 @@
+.w-5{
+    width:10%;
+    border-radius: 50%;
+    border: 3px solid #055F6F;
+    
+   
+}
+
+
+.carousel-item{
+    height: 700px;
+   background-position: center;
+}
+
+
+
+.top{
+    align-items: center;
+    justify-content: left;
+    display: flex;
+    padding: 10px;
+}
+
